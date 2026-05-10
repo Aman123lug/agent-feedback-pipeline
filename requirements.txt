@@ -1,0 +1,7 @@
+# gagent-core @ git+https://<YOUR_GITHUB_PAT>@github.com/Ghaia-ai/g-agent-ai-core-backend.git@main
+python-dotenv
+uvicorn
+fastapi
+pydantic
+openai
+agent-framework==1.0.1
